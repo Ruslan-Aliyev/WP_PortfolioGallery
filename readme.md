@@ -31,7 +31,7 @@ migrate featured images https://wordpress.org/plugins/export-featured-images/
 
 https://www.arclab.com/en/kb/email/how-to-enable-imap-pop3-smtp-gmail-account.html
 
-### Enable IMAP and/or POP3
+### Enable your Gmail account
 
 1. Go to the "Settings", e.g. click on the "Gears" icon and select "Settings".
 2. Click on "Forwarding and POP/IMAP".
@@ -44,7 +44,7 @@ The page contains a link to enable "Less secure apps" in MyAccount.
 - You can also enable "Less secure apps" (third-party mail clients) from:
 "MyAccount" > "Sign-in & security" > "Connected apps & sites" > "Allow less secure apps"
 
-### Gmail your Gmail account
+### Gmail SMTP Server
 
 - Server: smtp.gmail.com
 - Encryption/Authentication: StartTLS
