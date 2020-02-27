@@ -27,11 +27,11 @@ migrate featured images https://wordpress.org/plugins/export-featured-images/
 - https://wpcred.com/how-to-setup-wordpress-smtp-server-for-sending-emails-in-flatsome-woocommerce-theme/
 - https://www.youtube.com/watch?v=9Sbr9cyHZT4
 
-## Ready SMTP Server
+## Ready your Gmail account
 
 https://www.arclab.com/en/kb/email/how-to-enable-imap-pop3-smtp-gmail-account.html
 
-### Enable your Gmail account
+### Enable IMAP and/or POP3
 
 1. Go to the "Settings", e.g. click on the "Gears" icon and select "Settings".
 2. Click on "Forwarding and POP/IMAP".
