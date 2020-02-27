@@ -44,7 +44,7 @@ The page contains a link to enable "Less secure apps" in MyAccount.
 - You can also enable "Less secure apps" (third-party mail clients) from:
 "MyAccount" > "Sign-in & security" > "Connected apps & sites" > "Allow less secure apps"
 
-### Gmail SMTP Server
+### Gmail your Gmail account
 
 - Server: smtp.gmail.com
 - Encryption/Authentication: StartTLS
