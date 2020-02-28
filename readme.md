@@ -111,8 +111,8 @@ https://www.youtube.com/watch?v=KDcAvJ_jURk
 
 WooCommerce LogIn & SignUp Forms Plugin: https://wordpress.org/plugins/woocommerce-login-and-registration/
 
-https://www.youtube.com/watch?v=uDA2uonPBNg
-https://www.youtube.com/watch?v=kVkhbMP7Hjw <sup>Lite</sup>sup>
+- https://www.youtube.com/watch?v=uDA2uonPBNg
+- https://www.youtube.com/watch?v=kVkhbMP7Hjw <sup>Lite</sup>sup>
 
 ![](https://raw.githubusercontent.com/atabegruslan/archi_portfolio/master/Illustrations/SignUp.PNG)
 
