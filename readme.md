@@ -65,6 +65,7 @@ https://wordpress.org/plugins/post-smtp/
 # WooCommerce - Paypal
 
 https://www.youtube.com/watch?v=uDA2uonPBNg
+https://www.youtube.com/watch?v=KDcAvJ_jURk
 
 1. SignUp to Paypal: https://www.paypal.com/en/webapps/mpp/country-worldwide , https://www.paypal.com/vn/signin
 
@@ -99,8 +100,22 @@ https://www.youtube.com/watch?v=uDA2uonPBNg
 ![](https://raw.githubusercontent.com/atabegruslan/archi_portfolio/master/Illustrations/Buying1.PNG)
 ![](https://raw.githubusercontent.com/atabegruslan/archi_portfolio/master/Illustrations/Buying2.PNG)
 
+8. Checkout
+
+![](https://raw.githubusercontent.com/atabegruslan/archi_portfolio/master/Illustrations/Checkout1.PNG)
+![](https://raw.githubusercontent.com/atabegruslan/archi_portfolio/master/Illustrations/Checkout2.PNG)
+![](https://raw.githubusercontent.com/atabegruslan/archi_portfolio/master/Illustrations/Checkout3.PNG)
+![](https://raw.githubusercontent.com/atabegruslan/archi_portfolio/master/Illustrations/Checkout4.PNG)
+
 # User accounts
 
 WooCommerce LogIn & SignUp Forms Plugin: https://wordpress.org/plugins/woocommerce-login-and-registration/
 
 https://www.youtube.com/watch?v=uDA2uonPBNg
+https://www.youtube.com/watch?v=kVkhbMP7Hjw <sup>Lite</sup>sup>
+
+![](https://raw.githubusercontent.com/atabegruslan/archi_portfolio/master/Illustrations/SignUp.PNG)
+
+Only show this menu item when user is not logged in: 
+- https://www.wpexplorer.com/custom-menus-wordpress-users/
+- https://wordpress.org/plugins/user-menus/
