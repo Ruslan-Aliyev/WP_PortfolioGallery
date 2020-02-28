@@ -64,8 +64,8 @@ https://wordpress.org/plugins/post-smtp/
 
 # WooCommerce - Paypal
 
-https://www.youtube.com/watch?v=uDA2uonPBNg
-https://www.youtube.com/watch?v=KDcAvJ_jURk
+- https://www.youtube.com/watch?v=uDA2uonPBNg
+- https://www.youtube.com/watch?v=KDcAvJ_jURk
 
 1. SignUp to Paypal: https://www.paypal.com/en/webapps/mpp/country-worldwide , https://www.paypal.com/vn/signin
 
