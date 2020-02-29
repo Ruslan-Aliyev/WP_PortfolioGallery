@@ -128,6 +128,11 @@ You were also do this by setting `/wp-config.php`'s `WPLANG` constant.
 
 4. Use the `_e()` function. eg `_e("Something in english", "context")`
 
+## Via plugins
+
+- https://www.wpbeginner.com/beginners-guide/how-to-easily-create-a-multilingual-wordpress-site/
+- https://wordpress.org/plugins/woocommerce-multilingual/
+
 # User accounts
 
 WooCommerce LogIn & SignUp Forms Plugin: https://wordpress.org/plugins/woocommerce-login-and-registration/
