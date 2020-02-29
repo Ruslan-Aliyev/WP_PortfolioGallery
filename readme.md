@@ -107,6 +107,27 @@ https://wordpress.org/plugins/post-smtp/
 ![](https://raw.githubusercontent.com/atabegruslan/archi_portfolio/master/Illustrations/Checkout3.PNG)
 ![](https://raw.githubusercontent.com/atabegruslan/archi_portfolio/master/Illustrations/Checkout4.PNG)
 
+# Multi-Lingual
+
+## Basics
+
+- `__(string, context)` translates a string into the target language.
+- `_e(string, context)` translates a string into the target language and echos it out.
+
+1. Set Language, eg Vietnamese
+
+![](https://raw.githubusercontent.com/atabegruslan/archi_portfolio/master/Illustrations/SetLang.PNG)
+
+You were also do this by setting `/wp-config.php`'s `WPLANG` constant.
+
+2. Use https://poedit.net/ to create/edit `context-lang_code.po` file and generate its `.mo` file. eg `context-vi.po` & `context-vi.mo`
+
+![](https://raw.githubusercontent.com/atabegruslan/archi_portfolio/master/Illustrations/MakeMoFile.PNG)
+
+3. Put the `.po` and `.mo` files into your theme's or plugin's language directory, eg `wp-content/languages/plugins/`
+
+4. Use the `_e()` function. eg `_e("Something in english", "context")`
+
 # User accounts
 
 WooCommerce LogIn & SignUp Forms Plugin: https://wordpress.org/plugins/woocommerce-login-and-registration/
@@ -119,6 +140,16 @@ WooCommerce LogIn & SignUp Forms Plugin: https://wordpress.org/plugins/woocommer
 Only show this menu item when user is not logged in: 
 - https://www.wpexplorer.com/custom-menus-wordpress-users/
 - https://wordpress.org/plugins/user-menus/
+
+# Multi Store
+
+- Free
+	- https://wordpress.org/plugins/bp-wc-vendors/ 
+	- https://wordpress.org/plugins/wc-vendors/ 
+	- https://wordpress.org/plugins/wc-multivendor-marketplace/ <sup>GOOD</sup>
+- Non-Free
+	- https://www.formget.com/multi-vendor-wordpress-plugins/
+	- https://www.youtube.com/watch?v=hpe_J3AiFDU	
 
 # Create product from frontend
 
